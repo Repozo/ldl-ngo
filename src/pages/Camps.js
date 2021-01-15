@@ -15,28 +15,28 @@ const Camps = () => {
       <div>
         <Slide easing="ease">
           <div className="each-slide">
-            <img className="image"src={img1}/>
+            <img className="image"src={img1} alt="error"/>
           </div>
           <div className="each-slide">
-          <img className="image"src={img2}/>
+          <img className="image"src={img2}alt="error"/>
           </div>
           <div className="each-slide">
-          <img className="image"src={img3}/>
+          <img className="image"src={img3}alt="error"/>
           </div>
           <div className="each-slide">
-          <img className="image"src={img4}/>
+          <img className="image"src={img4}alt="error"/>
           </div>
           <div className="each-slide">
-          <img className="image"src={img5}/>
+          <img className="image"src={img5}alt="error"/>
           </div>
           <div className="each-slide">
-          <img className="image"src={img6}/>
+          <img className="image"src={img6}alt="error"/>
           </div>
           <div className="each-slide">
-          <img className="image"src={img7}/>
+          <img className="image"src={img7}alt="error"/>
           </div>
           <div className="each-slide">
-          <img className="image"src={img8}/>
+          <img className="image"src={img8}alt="error"/>
           </div>
           
         </Slide>
