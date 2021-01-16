@@ -16,7 +16,9 @@ function App() {
           <Route path='/' exact component={Home} />
           <Route path='/events' component={events} />
           <Route path='/join' component={join} />
-          <Route path='/about' component={Aboutus} />
+          <Route path='/about'>
+            <Aboutus />
+          </Route>
         </Switch>
       </Router>
     </>
