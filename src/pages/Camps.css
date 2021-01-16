@@ -4,11 +4,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Potta+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,600&display=swap');
+.content
+{
+  background-color: rgb(255, 242, 225);
+}
 .heading
 {
     text-align: center;
     margin: 1vw;
-    background-color: rgb(168, 31, 31);
+    background-color: rgb(168, 23, 23);
     border-radius: 15px;
     color: white;
     font-size: 3vw;
@@ -17,7 +21,7 @@
 }
 #camp-box
 {
-    background-color: #ffd2d9;
+    background-color: #fde6ea;
 }
 .campus-button
 {

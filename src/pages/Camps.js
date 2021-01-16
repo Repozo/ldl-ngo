@@ -12,7 +12,7 @@ import img8 from "./images/8.jpg";
 
 const Camps = () => {
     return (
-      <div>
+      <div className="content">
         <Slide easing="ease">
           <div className="each-slide">
             <img className="image"src={img1} alt="error"/>
