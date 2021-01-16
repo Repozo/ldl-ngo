@@ -49,7 +49,7 @@ const Camps = () => {
 <a className="link" href="#ghaziabad">Ghaziabad</a>
 </div>
 <div className="Campus-btn">
-<a className="link" href="#bahraich">Baharaich</a>
+<a className="link" href="#bahraich">Bahraich</a>
 </div>
 <div className="Campus-btn">
 <a className="link" href="#noida">Noida</a>
