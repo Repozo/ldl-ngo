@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Potta+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,600&display=swap');
+.content
+{
+  background-color: rgb(255, 242, 225);
+}
+.heading
+{
+    text-align: center;
+    margin: 1vw;
+    background-color: rgb(168, 23, 23);
+    border-radius: 15px;
+    color: white;
+    font-size: 3vw;
+    font-family: 'Potta One', cursive;
+ 
+}
+#camp-box
+{
+    background-color: #fde6ea;
+}
+.campus-button
+{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2vw;
+    margin-left: 10vw;
+    
+    
+}
+
+ .link{
+   display:inline-block;
+    text-decoration: none!important;
+    font-size: 2.5vw;
+    color:rgb(234, 245, 78) ;
+    font-family: 'Lobster', cursive;
+    width: 30vw;
+   
+   background-color:#fc2222ef;
+   border:0.05vw solid #660000;
+   border-radius:0.5vw;
+  
+  
+   padding:0.3vw;
+   text-align: center;
+   
+ }
+ .link:hover{
+    
+    font-size: 2.8vw;
+    color:black;
+    background-color:#f38480;
+ }
+
+ .branch {
+     background-color: rgb(250, 190, 190);
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 65vw;
+    margin-left: 25vw;
+    
+    border-radius: 00.5vw;
+  }
+  
+  .branch td, .branch th {
+    border: 0.05vw solid rgb(70, 16, 16);
+    padding: 0.5vw;
+    font-size: 1.5vw;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  
+  .branch tr:nth-child(even){background-color: #faf0f1;}
+  
+  .branch tr:hover {background-color: #ddd;}
+  
+  .branch th {
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    text-align: left;
+    background-color: #f1777d;
+    color: white;
+    font-size: 1.5vw;;
+  }
+  #ghaziabad
+  {
+      background-color: rgb(255, 242, 225);
+      padding-top: 2vw;
+  }
+  #noida
+  {
+      background-color: rgb(255, 242, 225);
+      padding-top: 2vw;
+  }
+  #bahraich
+  {
+      background-color: rgb(255, 242, 225);
+      padding-top: 2vw;
+  }
+  .city
+  {
+    background: linear-gradient(to right, #EA241F, #faa0ae, #ebe1e1);
+ padding-left: 4vw;
+    margin: 1vw;
+   width: 40vw;
+    border-radius: 10px;
+    color:cornsilk;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3vw;
+  }
+  .team
+  {
+      font-size: 2vw;
+      background-color: rgb(253, 147, 147);
+      width: 20vw;
+      border-radius: 0.5vw;
+      margin-left:2vw;
+      text-align:center;
+      padding:0.5vw;
+      font-family: 'Potta One', cursive;
+      
+  }
+  .team:hover
+  {
+    background-color: rgb(250, 117, 117);
+    font-size: 1.8vw;
+  }
+
+  .coordinator
+  {
+      margin-left: 5vw;
+      font-size: 1.6vw;
+      font-family: 'Fraunces', serif;
+      
+  }

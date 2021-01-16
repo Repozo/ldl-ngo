@@ -17,3 +17,16 @@
   font-size: 3rem;
   color: #520000;
 }
+
+.each-slide 
+{
+  margin-left: 1vh;
+  margin-right: 1vh;
+}
+.image
+{
+  width:100%;
+  height:35vw;
+  
+}
+

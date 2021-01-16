@@ -3,7 +3,7 @@ import React from 'react';
 function join() {
   return (
     <div className='join'>
-      <h1>Join Us</h1>
+      <h1>JOIN US</h1>
     </div>
   );
 }
