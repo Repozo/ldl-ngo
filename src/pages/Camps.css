@@ -8,7 +8,7 @@
 {
     text-align: center;
     margin: 1vw;
-    background-color: brown;
+    background-color: rgb(168, 31, 31);
     border-radius: 15px;
     color: white;
     font-size: 3vw;
@@ -28,36 +28,29 @@
     
     
 }
-.Campus-btn
-{
-   width: 30vw;
+
+ .link{
+   display:inline-block;
+    text-decoration: none!important;
+    font-size: 2.5vw;
+    color:rgb(234, 245, 78) ;
+    font-family: 'Lobster', cursive;
+    width: 30vw;
    
-   background-color:#d9534f;
+   background-color:#fc2222ef;
    border:0.05vw solid #660000;
    border-radius:0.5vw;
-   color:#fff;
+  
   
    padding:0.3vw;
    text-align: center;
-
-  
- }
- .Campus-btn:hover
- {
-    background-color:#f38480;
-    
- }
- .link{
-    text-decoration: none!important;
-    font-size: 2.5vw;
-    color:rgb(233, 238, 164) ;
-    font-family: 'Lobster', cursive;
    
  }
  .link:hover{
     
     font-size: 2.8vw;
     color:black;
+    background-color:#f38480;
  }
 
  .branch {

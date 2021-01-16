@@ -64,7 +64,7 @@ const Camps = () => {
         <div id="ghaziabad">
           <div className="city">Ghaziabad</div>
           <div className="team">Team ABES EC</div>
-          <br/>
+          
           <div className="coordinator">Team Coordinator: Mr. Ashish Rai - 9807127768</div>
 <div className="coordinator">Treasurer- Ms. Shreya</div>
         <table className="branch">
@@ -93,7 +93,7 @@ const Camps = () => {
         <div id="ghaziabad">
          
           <div className="team">Team RKGIT</div>
-          <br/>
+        
           <div className="coordinator">Team Coordinator: Mr. Rishabh Umrao - 9911701796</div>
 <div className="coordinator">Treasurer- Ms. Tavishi Panwar</div>
         <table className="branch">
@@ -121,7 +121,7 @@ const Camps = () => {
         <div id="ghaziabad">
          
           <div className="team">Team ABESIT</div>
-          <br/>
+        
           <div className="coordinator">Team Coordinator: Mr. Dheeraj Singh - 8299180224</div>
 <div className="coordinator">Treasurer- Ms. Purvie Singh</div>
         <table className="branch">
@@ -149,7 +149,7 @@ Mr. Rishabh Chaturvedi
         <div id="noida">
           <div className="city">Noida</div>
           <div className="team">Team JIIT</div>
-          <br/>
+         
           <div className="coordinator">Team Coordinator: Ms. Mansi Agarwal and Mr. Vaidyanath Singh - 8826961224/7007661001</div>
 <div className="coordinator">Treasurer- Mr. Parth Agarwal</div>
         <table className="branch">
@@ -184,7 +184,7 @@ Mr. Rishabh Chaturvedi
         <div id="bahraich">
           <div className="city">Bahraich</div>
           <div className="team">Team Bahraich</div>
-          <br/>
+         
           <div className="coordinator">Team Coordinator: Mr. Priyanshu Shukla - 9670033220</div>
 
         <table className="branch">
