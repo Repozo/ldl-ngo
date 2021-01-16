@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';
 
-import classes from './About.css';
+import './About.css';
 import img1 from '../images/img-1.png';
 import img2 from '../images/img-2.png';
 import img3 from '../images/img-3.png';
@@ -8,7 +8,6 @@ import img4 from '../images/img-4.png';
 import img5 from '../images/img-5.png';
 import img6 from '../images/img-6.png';
 import logoimg from '../images/logo-image-3.png';
-import overlay from '../images/overlay-2.png';
 
 class Aboutus extends Component {
   render() {

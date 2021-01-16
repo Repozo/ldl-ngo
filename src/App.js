@@ -5,8 +5,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import events from './pages/events';
 import join from './pages/join';
-
-import Aboutus from './components/Aboutus';
+import Aboutus from './components/aboutus';
 
 function App() {
   return (
@@ -15,9 +14,9 @@ function App() {
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
-          <Route path='/about' exact component={Aboutus} />
           <Route path='/events' component={events} />
           <Route path='/join' component={join} />
+          <Route path='/about' component={Aboutus} />
         </Switch>
       </Router>
     </>
