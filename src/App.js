@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import events from './pages/events';
 import join from './pages/join';
+import Aboutus from './components/Aboutus';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <Route path='/' exact component={Home} />
           <Route path='/events' component={events} />
           <Route path='/join' component={join} />
+          <Route path='/about' exact component={Aboutus} />
         </Switch>
       </Router>
     </>

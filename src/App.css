@@ -9,7 +9,7 @@
 
 .home,
 .events,
-.join{
+.join {
   display: flex;
   height: 90vh;
   align-items: center;
