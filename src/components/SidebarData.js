@@ -10,7 +10,13 @@ export const SidebarData = [
     icon: <AiIcons.AiFillHome />,
     cName: 'nav-text',
   },
-
+  {
+    title: 'About Us',
+    path: '/about',
+    icon: <IoIcons.IoMdHelpCircle />,
+    cName: 'nav-text',
+  },
+ 
   {
     title: 'Events',
     path: '/events',
@@ -27,6 +33,12 @@ export const SidebarData = [
     title: 'Join Us',
     path: '/join',
     icon: <FaIcons.FaFileSignature />,
+    cName: 'nav-text',
+  },
+  {
+    title: 'Downloads',
+    path: '/Downloads',
+    icon: <IoIcons.IoMdHelpCircle />,
     cName: 'nav-text',
   },
   {
@@ -47,10 +59,5 @@ export const SidebarData = [
     icon: <IoIcons.IoMdHelpCircle />,
     cName: 'nav-text',
   },
-  {
-    title: 'About Us',
-    path: '/about',
-    icon: <IoIcons.IoMdHelpCircle />,
-    cName: 'nav-text',
-  },
+ 
 ];
